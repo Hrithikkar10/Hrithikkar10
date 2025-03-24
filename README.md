@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrithik kar.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JAVA SCRIPT.
+- 👀 I’m interested in Software Quality Analyst.
+- 🌱 I’m currently working on software Quality Analyst.
 
 <!---
 Hrithikkar10/Hrithikkar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
